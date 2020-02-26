@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	color: white;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+.logo{
+
+	height: 15%;
+	width: 15%;
+	display: inline-block;
+
+}
+.logo-container{
+	text-align: center;
+}
+.img-container{
+	text-align: center;
+	
+}
+.rover-img{
+	display: inline-block;
+	max-width: 50%;
+	max-height: auto;
+}
